@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning: **NestJS**
 
-- 📫 Reach me at: **emamularefin3226@gmail.com**
+- 📫 Reach me at: **emamularfin3226@gmail.com**
 
 
 
